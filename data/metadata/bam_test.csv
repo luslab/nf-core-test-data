@@ -1,0 +1,4 @@
+id,data1,data2
+sample1,https://raw.githubusercontent.com/luslab/nf-core-test-data/main/data/bam_bai/sample1.bam,https://raw.githubusercontent.com/luslab/nf-core-test-data/main/data/bam_bai/sample1.bam.bai
+sample2,https://raw.githubusercontent.com/luslab/nf-core-test-data/main/data/bam_bai/sample1.bam,https://raw.githubusercontent.com/luslab/nf-core-test-data/main/data/bam_bai/sample1.bam.bai
+sample3,https://raw.githubusercontent.com/luslab/nf-core-test-data/main/data/bam_bai/sample1.bam,https://raw.githubusercontent.com/luslab/nf-core-test-data/main/data/bam_bai/sample1.bam.bai
