@@ -1,0 +1,3 @@
+id,data1,strip1,strip2
+test_se,https://raw.githubusercontent.com/luslab/nf-core-test-data/main/data/fastq/smartseq2_se.tar.gz,-1234.sub.fastq.gz,
+test_pe,https://raw.githubusercontent.com/luslab/nf-core-test-data/main/data/fastq/smartseq2_pe.tar.gz,_1.sub.fastq.gz,_2.sub.fastq.gz
